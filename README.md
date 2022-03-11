@@ -1,4 +1,4 @@
-# Fazwan.ci_Using_BeautifulSoup
+# Fazwan.ci_Scraping_Using_BeautifulSoup
 
 
 Scrape all hotel detail from "https://www.fazwaz.cl/en/property-for-sale/" using BeautifulSoup
